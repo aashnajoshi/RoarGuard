@@ -1,12 +1,12 @@
 # RoarGuard
-An Arduino-based project that plays a lion's roar sound when certain conditions are met, potentially for security or deterrence purposes.
+RoarGuard is an Arduino-based project that plays a lion's roar sound for security or deterrence purposes. Utilizing C++ for embedded programming, it activates the sound based on specific conditions to enhance safety and alertness.
 
 ## Features
 - Plays a lion's roar sound via the Arduino system.
 - Uses C++ for embedded programming.
 
 ## Usage
-Upload the `.ino` files to an Arduino-compatible board.
+Upload the `.ino` files to an Arduino-compatible board using Arduino IDE.
 
 ## Description of various files:
 - **Jaw+ul.ino:** Controls jaw movement and ultrasonic sensor interaction.
